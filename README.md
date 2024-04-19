@@ -12,8 +12,8 @@ Getting Started
 
 Prerequisites :
 
-Python 3.x
-OpenCV library (pip install opencv-python)
+Python 3.x  
+OpenCV library (pip install opencv-python)   
 Keras library (pip install keras)
 
 Additional Notes :
@@ -21,6 +21,7 @@ Additional Notes :
 For optimal accuracy, ensure that captured images cover various facial expressions, angles, and lighting conditions.
 The trained model file (trained_model.h5) will be generated after running the train_model.py script.
 You can fine-tune the model by adjusting hyperparameters and experimenting with different neural network architectures.
+
 Credits :
 
 This project utilizes the OpenCV and Keras libraries for face recognition.
